@@ -32,9 +32,9 @@ const Projects = () => {
 
   const software = [
     {
-      Src: "./Projects/KitchenSafety",
+      Src: "./Projects/HandSign.webp",
       Name: "Hand Sign Recognition System",
-      GitHub: "https://github.com/tarunpr11/Sign-Language-App",
+      GitHub: "https://github.com/BenetaJohnson/Hand_Sign_Recognition_System",
     },
     {
       Src: "./Projects/Hospital Management System.webp",
